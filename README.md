@@ -2,6 +2,8 @@
 
 Python project of the simulation of a Voith motor, also called vertical cycloïdal motor.
 
+Written in french.
+
 Commentaires : Un de mes premiers projet d'ampleur conséquente.
 
 Les résultats de cette étude montrent que ce type de moteur hors-du-commun nécessite des conditions de fonctionnement bien précises (masse du bateau, puissance du moteur, vitesse initiale du bateau, vitesse de rotation, nombre de pales, rapports géométriques de la structure du moteur) sans quoi le bateau décroche.
